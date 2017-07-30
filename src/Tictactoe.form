@@ -751,7 +751,7 @@
                 <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
                   <Font name="Trajan Pro 3" size="18" style="1"/>
                 </Property>
-                <Property name="text" type="java.lang.String" value="new game"/>
+                <Property name="text" type="java.lang.String" value="NEW GAME"/>
               </Properties>
               <Events>
                 <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="newgameActionPerformed"/>
@@ -808,7 +808,7 @@
             <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
               <Font name="Trajan Pro 3" size="18" style="1"/>
             </Property>
-            <Property name="text" type="java.lang.String" value="Player 2 (o)"/>
+            <Property name="text" type="java.lang.String" value="Player 2  (o)"/>
           </Properties>
         </Component>
         <Container class="javax.swing.JPanel" name="jPanel17">

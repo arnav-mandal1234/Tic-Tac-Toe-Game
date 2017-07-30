@@ -664,7 +664,7 @@ public class Tictactoe extends javax.swing.JFrame {
         jPanel11.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
 
         newgame.setFont(new java.awt.Font("Trajan Pro 3", 1, 18)); // NOI18N
-        newgame.setText("new game");
+        newgame.setText("NEW GAME");
         newgame.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 newgameActionPerformed(evt);
@@ -706,7 +706,7 @@ public class Tictactoe extends javax.swing.JFrame {
         jLabel4.setText("Player 1  (x)");
 
         jLabel5.setFont(new java.awt.Font("Trajan Pro 3", 1, 18)); // NOI18N
-        jLabel5.setText("Player 2 (o)");
+        jLabel5.setText("Player 2  (o)");
 
         jPanel17.setBackground(new java.awt.Color(255, 255, 255));
         jPanel17.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0), 2));
