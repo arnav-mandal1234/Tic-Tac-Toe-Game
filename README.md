@@ -1,4 +1,4 @@
-## Tic-Tac-Toe-Game<br /> 
+# Tic-Tac-Toe-Game<br /> 
 
 
 This is the first game i had made on Java in my freshmen year.<br /> 
